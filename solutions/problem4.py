@@ -70,6 +70,7 @@ class Solution(object):
 
                 return (max_of_left + min_of_right) / 2.0
 
+
 if __name__ == '__main__':
     s = Solution()
     nums1 = [1,2]
